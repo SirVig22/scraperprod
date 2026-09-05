@@ -1,0 +1,19 @@
+{
+    "searchstuff": ["Thinkpad", "Hibás thinkpad"],
+    
+    "hardverapro": {
+        "base_link": "https://hardverapro.hu/aprok/keres.php?stext=",
+        "base_offset": "&offset=",
+        "increment_offset": 100
+    },
+    "jofogas": {
+        "base_link": "https://www.jofogas.hu/magyarorszag?q=",
+        "base_offset": "&o=",
+        "increment_offset": 1
+    },
+    "vatera": {
+        "base_link": "https://www.vatera.hu/listings/index.php?",
+        "base_offset": "&p=",
+        "increment_offset": 1
+    }
+}

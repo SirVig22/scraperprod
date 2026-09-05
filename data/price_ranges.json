@@ -1,0 +1,70 @@
+{
+    "Thinkpad L490": {
+        "min_price": 30000,
+        "max_price": 100000
+    },
+    "Thinkpad L490s": {
+        "min_price": 30000,
+        "max_price": 100000
+    },
+    "Thinkpad T480": {
+        "min_price": 30000,
+        "max_price": 80000
+    },
+    "Thinkpad T580": {
+        "min_price": 30000,
+        "max_price": 110000
+    },
+    "Thinkpad": {
+        "min_price": 10000,
+        "max_price": 40000
+    },
+    "Gamer laptop": {
+        "min_price": 40000,
+        "max_price": 110000
+    },
+    "3D nyomtató": {
+        "min_price": 15000,
+        "max_price": 40000
+    },
+    "Hibás 3D nyomtató": {
+        "min_price": 15000,
+        "max_price": 40000
+    },
+    "600W tápegység": {
+        "min_price": 5000,
+        "max_price": 25000
+    },
+    "Hibás thinkpad": {
+        "min_price": 5000,
+        "max_price": 25000
+    },
+    "Thinpad alkatrésznek": {
+        "min_price": 5000,
+        "max_price": 25000
+    },
+    "Thinkpad alkatrésznek": {
+        "min_price": 5000,
+        "max_price": 25000
+    },
+    "Ryzen 5 3600": {
+        "min_price": 5000,
+        "max_price": 50000
+    },
+    "RX 5060 XT": {
+        "min_price": 5000,
+        "max_price": 60000
+    },
+    "DDR4 16GB": {
+        "min_price": 5000,
+        "max_price": 50000
+    },
+    "256GB SSD": {
+        "min_price": 5000,
+        "max_price": 50000
+    },
+    "B450": {
+        "min_price": 5000,
+        "max_price": 50000
+    }
+}
